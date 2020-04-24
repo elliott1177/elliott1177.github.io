@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : Selected creative works
 name                     : "Elliott Krohnke"
 description              : "My name is Elliott and I'm a software developer and a writer. This website showcases my passion projects and a blog that offers tutorials and a look into what I am learning in life. Shoot me an email if you have any questions."
-url                      : elliott1177.github.io
+url                      : https://elliott1177.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : elliott1177/elliott1177.github.io
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /assets/images/FallbackTeaser.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /assets/images/largeAvatar.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -75,13 +75,14 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/largeAvatar.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - https://www.linkedin.com/in/elliott-krohnke/
 
 # Analytics
 analytics:
@@ -113,10 +114,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/elliott1177"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/elliott-krohnke/"
 
 # Site Footer
 footer:
