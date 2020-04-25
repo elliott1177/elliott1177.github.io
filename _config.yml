@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Elliott Krohnke"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My name is Elliott and I like to develop software and write about things that interest me."
+  bio              : "My name is Elliott and I like to develop software"
   location         : "Minneapolis, MN."
   email            : "ekrohnke@gmail.com"
   links:

@@ -1,21 +1,12 @@
 ---
-title: First Post
+title: "First Post"
 ---
 
-  # This is the inaugural post of my blog.
-  ## It's currently 2:30AM and I've been
-  working on getting this site configured and set up for hours. As a Computer
-  Science student I never learned web development in any of my classes. I always
-  worried about the front end aspect of it, I'm not great at visual aesthetics
-  but I always felt like using a theme was cheating. As someone who studies
-  computers I felt like I should build a site from scratch. I ended up somewhere
-  in the middle. Starting off this website will be hosted using github-pages
-  under the default URL (elliott1177.github.io), perhaps I'll get a custom URL
-  in the future. This site is built using a static site generator called jekyll.
-  I am using a theme called minimal mistakes that I found on Github. It was
-  developed by Michael Rose and can be found [here](https://github.com/mmistakes/minimal-mistakes).
-  I will make my own additions to the layout of this website, the theme is
-  just a starting point. My goal is to host my project portfolio on this website
-  and to keep this blog updated regularly with tutorials (maybe on how to build
-  a site like this) and various things I find interesting in the realm of
-  Computer Science.
+  Welcome to my website and blog. I created this website primarily to display my software projects.
+  I started coding as a Freshman in college, which was already over a year ago... time flies! I started by taking an introductory programming
+  course offered by the Computer Science department at my school: The University of Minnesota. I enjoyed this class so much
+  that I am now a Computer Science major, almost done with my core classes, and getting ready to take the elective classes that will
+  determine my upper division major track. I have learned a lot about many fundamental topics
+  in the Computer Science realm including: algorithms, software development methods and patterns, multiple programming languages, statistics, linear algebra, and more. This website will display the projects I have created with this knowledge. For the blog portion of this site
+  I will include tech tutorials, my thoughts on being a student, and information for people who are interested in learning more about
+  the fascinating and rewarding world of Computer Science. 
